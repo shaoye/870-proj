@@ -26,6 +26,21 @@ python -m venv env
 
 python -m pip install -r requirements.txt
 ```
+## Data
+> Phishing URLs
+
+[http://data.phishtank.com/data/online-valid.csv]()
+
+> Benign URLs
+
+[https://www.unb.ca/cic/datasets/url-2016.html]()
+> Top 1M URLs
+
+[http://s3.amazonaws.com/alexa-static/top-1m.csv.zip]()
+
+## Train
+
+>TODO
 
 ## Run
 ```
