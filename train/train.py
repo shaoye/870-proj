@@ -14,7 +14,7 @@ import pickle
 import numpy as np
 
 # Loading the data
-data = pd.read_csv('./data/2021-2-13/urldata.csv')
+data = pd.read_csv('./data/2021-03-15/urldata.csv')
 
 # Dropping the Domain column
 data = data.drop(['Domain'], axis=1).copy()

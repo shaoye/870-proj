@@ -5,6 +5,7 @@ from url_parser import featureExtraction, feature_names
 
 # URL to check
 test_url = "https://paypal.com.us.home.login.page.loginchecks.xyz/"
+# test_url = "https://secure.login.aliexpress.com.coin-balance.com/entscheidung-817277406681628&amp;cgi3-viewkontakt-817277406681628-007acctpagetype-817277406681628=33445-gesendet&amp;amp"
 # test_url = "https://evernote.com/register?upgrade=premium&itemCode=premium-1year&offer=www_pricing_CTA"
 
 # load 4 pre-trained models

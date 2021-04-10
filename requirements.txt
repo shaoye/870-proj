@@ -1,3 +1,4 @@
+aniso8601==9.0.1
 arrow==0.15.5
 beautifulsoup4==4.9.3
 certifi==2019.9.11
@@ -6,10 +7,11 @@ chardet==3.0.4
 click==6.7
 cycler==0.10.0
 Flask==0.12.2
+Flask-Cors==3.0.10
 Flask-PyMongo==0.5.1
 Flask-WTF==0.14.2
 future==0.18.2
-gevent==1.4.0
+gevent==1.5.0
 greenlet==0.4.15
 idna==2.8
 iso8601==0.1.12
