@@ -29,5 +29,5 @@ python -m pip install -r requirements.txt
 
 ## Run
 ```
-python3 ./model1.py
+python3 ./demo.py
 ```
